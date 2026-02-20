@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "The Adventure of the Speckled Band",
+        "body": "A young woman seeks Holmes's help after her twin sister dies under mysterious circumstances. Holmes investigates a locked room mystery involving a deadly snake, revealing a stepfather's sinister plot.",
+        "upCount": 234,
+        "downCount": 12,
+        "createdAt": "2024-01-15T10:30:00Z",
+        "img": "https://via.placeholder.com/400x250?text=Speckled+Band"
+    },
+    {
+        "id": 2,
+        "title": "A Scandal in Bohemia",
+        "body": "The King of Bohemia hires Holmes to recover a compromising photograph. Holmes outwits the clever Irene Adler, the only woman who ever bested the detective.",
+        "upCount": 456,
+        "downCount": 8,
+        "createdAt": "2024-01-20T14:45:00Z",
+        "img": "https://via.placeholder.com/400x250?text=Scandal+Bohemia"
+    },
+    {
+        "id": 3,
+        "title": "The Red-Headed League",
+        "body": "A mysterious organization recruits only red-haired men for a peculiar job. Holmes uncovers an elaborate bank robbery scheme hidden beneath this strange arrangement.",
+        "upCount": 389,
+        "downCount": 15,
+        "createdAt": "2024-02-01T09:15:00Z",
+        "img": "https://via.placeholder.com/400x250?text=Red+Headed+League"
+    },
+    {
+        "id": 4,
+        "title": "The Blue Carbuncle",
+        "body": "A stolen diamond hidden in a goose leads Holmes to solve a theft case. The detective demonstrates his deductive prowess by tracing the gem through unexpected clues.",
+        "upCount": 312,
+        "downCount": 6,
+        "createdAt": "2024-02-10T11:20:00Z",
+        "img": "https://via.placeholder.com/400x250?text=Blue+Carbuncle"
+    },
+    {
+        "id": 5,
+        "title": "The Final Problem",
+        "body": "Holmes faces his greatest nemesis, Professor Moriarty, in a battle of intellects. Their confrontation at Reichenbach Falls changes everything, leaving Watson devastated.",
+        "upCount": 678,
+        "downCount": 22,
+        "createdAt": "2024-02-18T16:00:00Z",
+        "img": "https://via.placeholder.com/400x250?text=Final+Problem"
+    },
+    {
+        "id": 6,
+        "title": "The Hound of the Baskervilles",
+        "body": "A family curse of a supernatural hound terrorizes a noble family on the moors. Holmes investigates whether the legend is real or a cover for a more sinister plot.",
+        "upCount": 523,
+        "downCount": 18,
+        "createdAt": "2024-02-25T13:30:00Z",
+        "img": "https://via.placeholder.com/400x250?text=Hound+Baskervilles"
+    },
+    {
+        "id": 7,
+        "title": "The Adventure of the Dancing Men",
+        "body": "Cryptic stick-figure drawings plague a country gentleman's family. Holmes deciphers the coded messages and stops a criminal from his past seeking revenge.",
+        "upCount": 267,
+        "downCount": 9,
+        "createdAt": "2024-03-05T10:00:00Z",
+        "img": "https://via.placeholder.com/400x250?text=Dancing+Men"
+    },
+    {
+        "id": 8,
+        "title": "The Adventure of the Twisted Lip",
+        "body": "A respectable gentleman is found in a disreputable opium den under mysterious circumstances. Holmes uncovers a clever disguise and financial fraud scheme.",
+        "upCount": 198,
+        "downCount": 11,
+        "createdAt": "2024-03-12T15:45:00Z",
+        "img": "https://via.placeholder.com/400x250?text=Twisted+Lip"
+    },
+    {
+        "id": 9,
+        "title": "The Adventure of the Six Napoleons",
+        "body": "Six plaster busts of Napoleon are systematically destroyed. Holmes traces the theft to a hidden treasure, revealing why someone is willing to go to great lengths.",
+        "upCount": 334,
+        "downCount": 14,
+        "createdAt": "2024-03-20T12:10:00Z",
+        "img": "https://via.placeholder.com/400x250?text=Six+Napoleons"
+    },
+    {
+        "id": 10,
+        "title": "The Beryl Coronet",
+        "body": "A stolen coronet threatens a family's honor and a young man's innocence. Holmes uses his keen observation to prove the true culprit and restore justice.",
+        "upCount": 445,
+        "downCount": 16,
+        "createdAt": "2024-03-28T08:25:00Z",
+        "img": "https://via.placeholder.com/400x250?text=Beryl+Coronet"
+    }
+]
