@@ -1,21 +1,13 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState, useContext } from 'react'
 import BlogCard from './blogCard'
 import Hero from './hero'
+import BlogContext from '../contexts/BlogContext';
+
 
 export default function Home() {
-    const [blogs, setBlogs] = useState([])
-
-    useEffect(() => {
-        fetch('http://localhost:5000/api/blogs/')
-            .then(response => response.json())
-            .then(data => {
-                setBlogs(data);
-            })
-            .catch(error => console.error('Error fetching data:', error))
-    }, [])
-
+    // ai child (home) khabar khaite chay, Aijonno table(useContext) use kore table theke khabar khaite pare
+    const blogs = useContext(BlogContext);
     console.log(blogs)
-
 
     return (
         <div>
